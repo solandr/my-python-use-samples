@@ -1,5 +1,7 @@
 # my-python-use-samples
 
+Тестовое задание - см.в папке GizQiuz
+
 # Мои примеры использования Python
 ## inj_mes.py
 
